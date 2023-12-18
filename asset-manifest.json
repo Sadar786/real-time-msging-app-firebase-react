@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/real-time-msging-app-firebase-react/static/css/main.284b8504.chunk.css",
+    "main.js": "/real-time-msging-app-firebase-react/static/js/main.94035968.chunk.js",
+    "main.js.map": "/real-time-msging-app-firebase-react/static/js/main.94035968.chunk.js.map",
+    "runtime-main.js": "/real-time-msging-app-firebase-react/static/js/runtime-main.1922d462.js",
+    "runtime-main.js.map": "/real-time-msging-app-firebase-react/static/js/runtime-main.1922d462.js.map",
+    "static/js/2.5de24f3d.chunk.js": "/real-time-msging-app-firebase-react/static/js/2.5de24f3d.chunk.js",
+    "static/js/2.5de24f3d.chunk.js.map": "/real-time-msging-app-firebase-react/static/js/2.5de24f3d.chunk.js.map",
+    "index.html": "/real-time-msging-app-firebase-react/index.html",
+    "static/css/main.284b8504.chunk.css.map": "/real-time-msging-app-firebase-react/static/css/main.284b8504.chunk.css.map",
+    "static/js/2.5de24f3d.chunk.js.LICENSE.txt": "/real-time-msging-app-firebase-react/static/js/2.5de24f3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1922d462.js",
+    "static/js/2.5de24f3d.chunk.js",
+    "static/css/main.284b8504.chunk.css",
+    "static/js/main.94035968.chunk.js"
+  ]
+}
