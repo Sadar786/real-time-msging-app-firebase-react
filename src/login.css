@@ -14,6 +14,8 @@
     background-color: #738adb;
     color: #eff2f5;
     font-weight: 800;
+    border-radius: 10px;
+
 }
 
 .login > button:hover{
@@ -23,5 +25,6 @@
 
 .login > div > img{
     object-fit: contain;
-    height: 350px;
+    height: 200px;
+     width: 350px;
 }
